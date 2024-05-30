@@ -32,6 +32,32 @@ Description: This section maps the geographic distribution of data science jobs.
 
 Visualization: A map chart displaying job counts by location.
 
+6) Average Salary vs. Employment Type
+
+Description: This section compares average salaries based on different employment types (e.g., full-time, part-time, contract, freelance). It provides insights into how employment type affects compensation in data science roles.
+
+Visualization: A donut chart showing average salaries categorized by employment type.
+
+7) Average Salary vs. Experience Level
+
+Description: This section analyzes how average salaries vary with different levels of experience. It helps to understand the financial progression in data science careers.
+
+Visualization: A donut chart illustrating average salaries for each experience level.
+
+8) Average Salary vs. Company Size
+
+Description: This section examines the relationship between company size and average salary. It helps in understanding how company scale impacts salary offerings in the data science sector.
+
+Visualization: A donut chart displaying average salaries across different company sizes.
+
+Each section of this dashboard is designed to provide actionable insights into the data science job market, making it easier for users to identify trends, compare opportunities, and make informed career or business decisions. Explore the visualizations to gain a better understanding of the current and evolving landscape of data science employment.
+
+
+
+
+
+
+
 
 
 
